@@ -1,8 +1,8 @@
 ---
 description: >-
-  tf.keras layer that should (but doesn't have to) be the first layer        in
-  the neural network. It's for learning and applying a tokenization        
-  scheme on the input text.
+  tf.keras layer that should (but doesn't have to) be the first layer in the
+  neural network. It's for learning and applying a tokenization         scheme
+  on the input text.
 ---
 
 # TokenizationLayer
